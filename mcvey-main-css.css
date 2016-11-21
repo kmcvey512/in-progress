@@ -1,0 +1,61 @@
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'IM Fell DW Pica SC', cursive;
+    color: #828282
+    font-size: 18px;
+}
+
+#about, #work, #contact {
+        height: 600px;
+}
+
+/****** GRID ******/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+.third-width {
+    width: 400px;
+    float: left;
+}
+
+/****** ABOUT ******/
+
+#about .full-width {
+    padding: 80px 0;
+}
+
+#about h2 {
+  font-family: 'Ranga', cursive;
+}
+#about p {
+    font-size: 21px;
+    color: #7f7f7f;
+    line-height: 42px;
+    padding-right: 50px;
+}
+/*****WORK******/
+#work .full-width{
+  padding: 115px 0;
+}
+#work img{
+  padding-bottom:  30px;
+}
+#work h3{
+  font-size:
+  width:
+  margin: 0 auto;
+}
+#work p{
+  font-family:
+  font-size:
+  line-height:
+  color:
+  padding: 0 35px;
+}
